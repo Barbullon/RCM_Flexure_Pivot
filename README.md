@@ -10,6 +10,9 @@ Download all project files, including the 3D models (`.3mf`) and video (`.mp4`).
 Large scale 3D printed flexure pivots
 <img width="4135" height="2635" alt="Kite_family" src="https://github.com/user-attachments/assets/42f42942-6e3d-4eb5-b1d7-fdb4cd1949c6" />
 
+## 📁 Download 3D Models
+
+[⬇️ Download the 3D-models folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FBarbullon%2FRCM-Flexure-Pivot%2Ftree%2Fmain%2F3D-models)
 
 Small scale 3D printed flexure pivots
 <img width="7360" height="4912" alt="_N8K4542" src="https://github.com/user-attachments/assets/2b962258-03d7-4835-923e-761a0bb33ed0" />
