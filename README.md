@@ -1,7 +1,7 @@
 # RCM Flexure Pivot
 This directory contains the files required for 3D printing the KITE pivot (patent pending) ; see the peer-reviewed publication in "Mechanisms and Machines Theory" https://doi.org/10.1016/j.mechmachtheory.2026.106645
 
-## 📦 Download the 3D Files
+## 📦 Download all the 3D Files
 
 Download the complete repository, including all the 3D models (`.3mf`).
 
