@@ -1,12 +1,6 @@
 # RCM Flexure Pivot
 This directory contains the files required for 3D printing the KITE pivot (patent pending) and complementary materials ; see the peer-reviewed publication in "Mechanisms and Machines Theory" https://doi.org/10.1016/j.mechmachtheory.2026.106645
 
-## 📦 Download the project
-
-Download all project files, including the 3D models (`.3mf`) and video (`.mp4`).
-
-[⬇️ **Download the complete project (ZIP)**](https://github.com/Barbullon/RCM-Flexure-Pivot/archive/refs/heads/main.zip)
-
 ## 📁 Download 3D Models
 
 [⬇️ Download the 3D-models folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FBarbullon%2FRCM-Flexure-Pivot%2Ftree%2Fmain%2F3D-models)
