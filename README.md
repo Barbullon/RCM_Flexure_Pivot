@@ -3,7 +3,7 @@ This directory contains the files required for 3D printing the KITE pivot (paten
 
 ## 📁 Download 3D Models
 
-[⬇️ Download the 3D-models folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FBarbullon%2FRCM-Flexure-Pivot%2Ftree%2Fmain%2F3D-models)
+[⬇️ Download the 3D-models folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FBarbullon%2FRCM_Flexure_Pivot%2Ftree%2Fmain%2F3D-models)
 
 Large scale 3D printed flexure pivots
 <img width="4135" height="2635" alt="Kite_family" src="https://github.com/user-attachments/assets/42f42942-6e3d-4eb5-b1d7-fdb4cd1949c6" />
